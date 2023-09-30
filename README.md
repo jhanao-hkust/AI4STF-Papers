@@ -25,6 +25,7 @@ This is a list of academic papers focusing on the frontier of AI for spatio-temp
 1. **Skilful Nowcasting of Extreme Precipitation with NowcastNet**. *Yuchen Zhang, Mingsheng Long, Kaiyuan Chen, Lanxiang Xing, Ronghua Jin, Michael I. Jordan, Jianmin Wang*. Nature 2023. [pdf]
 1. **Interpretable Weather Forecasting for Worldwide Stations with a Unified Deep Model**. *Haixu Wu, Hang Zhou, Mingsheng Long, Jianmin Wang*. Nature Machine Intelligence 2023. [pdf]
 1. **Sparse Graph Learning from Spatiotemporal Time Series**. *Andrea Cini, Daniele Zambon, Cesare Alippi*. JMLR 2023. [pdf]
+1. **Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation**. *Qianru Zhang, Chao Huang, Lianghao Xia, Zheng Wang, Siu Ming Yiu, Ruihua Han*. ICML 2023. [pdf]
 1. **Maintaining the Status Quo: Capturing Invariant Relations for OOD Spatiotemporal Learning**. *Zhengyang Zhou, Qihe Huang, Kuo Yang, Kun Wang, Xu Wang, Yudong Zhang, Yuxuan Liang, Yang Wang*. KDD 2023. [pdf]
 1. **Localised Adaptive Spatial-Temporal Graph Neural Network**. *Wenying Duan, Xiaoxi He, Zimu Zhou, Lothar Thiele, Hong Rao*. KDD 2023. [pdf]
 1. **Spatio-temporal Diffusion Point Processes**. *Yuan Yuan, Jingtao Ding, Chenyang Shao, Depeng Jin, Yong Li*. KDD 2023. [pdf]
