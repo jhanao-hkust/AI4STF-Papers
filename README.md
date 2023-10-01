@@ -1,5 +1,5 @@
-# AI for Spatio-Temporal Forecasting Papers
-This is a list of academic papers focusing on the frontier of AI for spatio-temporal forecasting. All the papers are collected from prestigious AI conferences and journals, covering a wide range of applications such as traffic forecasting, weather forecasting, and event prediction. Hope this repository can serve as an invaluable resource for researchers who are interested in this area.
+# AI for Spatiotemporal Forecasting Papers
+This is a list of academic papers focusing on the frontier of AI for spatiotemporal forecasting. All the papers are collected from prestigious AI conferences and journals, covering a wide range of applications such as traffic forecasting, weather forecasting, and event prediction. Hope this repository can serve as an invaluable resource for researchers who are interested in this area.
 
 ### Contents
 
